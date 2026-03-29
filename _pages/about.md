@@ -55,5 +55,4 @@ I have contributed as a core member to several major research projects, includin
 - President’s Scholarship, Shandong University, 2017
 - National Scholarship, Shandong University, 2017
 - Academic Scholarship, Shandong University, 2016
-![Uploading image.png…]()
 
