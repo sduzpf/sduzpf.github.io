@@ -1,3 +1,5 @@
+<span class='anchor' id='about-me'></span>
+
 I am currently a Researcher (equivalent to Full Professor) at the School of Computer Science and Technology, Tongji University, and a recipient of the Shanghai Magnolia Overseas High-Level Young Talent Program. Prior to this, I was a postdoctoral researcher in the MM Lab at The University of Queensland, where I was mentored by Professor [Zi (Helen) Huang](https://staff.itee.uq.edu.au/huang/)(IEEE Fellow, ACM Fellow, ARC Future Fellow), a leading scholar in Data Science, and Professor [Hongzhi Yin](https://eecs.uq.edu.au/profile/2696/hongzhi-yin).
 
 My research interests lie in spatial intelligence, multimodal information processing, and the security and robustness of multimodal models. To date, I have published over 30 papers in top-tier venues, including SIGIR, ACM MM, CVPR, TOIS, TKDE, and TMM. Among these, 11 are first-author papers in CCF-A venues, with one recognized as an ESI Highly Cited Paper, and I have also received a Best Paper Award.
