@@ -17,42 +17,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Researcher (equivalent to Full Professor) at the School of Computer Science and Technology, Tongji University, and a recipient of the Shanghai Magnolia Overseas High-Level Young Talent Program. Prior to this, I was a postdoctoral researcher in the MM Lab at The University of Queensland, where I was mentored by Professor [Zi (Helen) Huang](https://staff.itee.uq.edu.au/huang/)(IEEE Fellow, ACM Fellow, ARC Future Fellow), a leading scholar in Data Science, and Professor [Hongzhi Yin](https://eecs.uq.edu.au/profile/2696/hongzhi-yin).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in spatial intelligence, multimodal information processing, and the security and robustness of multimodal models. To date, I have published over 30 papers in top-tier venues, including SIGIR, ACM MM, CVPR, TOIS, TKDE, and TMM. Among these, 11 are first-author papers in CCF-A venues, with one recognized as an ESI Highly Cited Paper, and I have also received a Best Paper Award.
+I have contributed as a core member to several major research projects, including the Australian Research Council (ARC) Discovery Program, the ARC Centre of Excellence for Children and Families over the Life Course, and the National Natural Science Foundation of China (NSFC) General Program. I also serve as a reviewer for leading journals and conferences such as TPAMI, TDSC, CVPR, ACM MM, and SIGIR, and have been involved in organizing international conferences, including ACM MMAsia.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026.
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by TKDE. 
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by TIP.
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by SIGIR 2024.
+- *2024.05*: &nbsp;🎉🎉 Two papers are accepted by TMM.
+  
 # 📝 Publications 
+1. Peng-Fei Zhang, Zi Huang, Guangdong Bai. Universal Adversarial Perturbations for Vision-Language Pre-trained Models. In Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024, pp. 862-87. (CCF-A)
+2. Peng-Fei Zhang,  Zi Huang, Xin-Shun Xu, and Guangdong Bai. Effective and robust adversarial training against data and label corruptions. IEEE Transactions on Multimedia. 2024, 26: 9477-9488. (CCF-A)
+3. Peng-Fei Zhang, Guangdong Bai, Hongzhi Yin, and Zi Huang. Proactive privacy-preserving learning for cross-modal retrieval. ACM Transactions on Information Systems. 2023: 1-23. (CCF-A)
+4. Peng-Fei Zhang, Guangdong Bai, Zi Huang, and Xin-Shun Xu. Machine unlearning for image retrieval: A generative scrubbing approach. In Proceedings of the ACM International Conference on Multimedia. 2022, pp. 237-245. (CCF-A)
+5. Peng-Fei Zhang, Yang Li, Zi Huang, Xin-Shun Xu. Aggregation-Based Graph Convolutional Hashing for Unsupervised Cross-Modal Retrieval. IEEE Transactions on Multimedia. 2021, 24: 466-479. (CCF-A)
+6. Peng-Fei Zhang, Jiasheng Duan, Zi Huang, and Hongzhi Yin. Joint-teaching: Learning to refine knowledge for resource-constrained unsupervised cross-modal retrieval. In Proceedings of the ACM International Conference on Multimedia. 2021, pp. 1517-1525. (CCF-A)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+# 📖 Experience
+- *2023.07 - 2025.12*, Postdoctoral Research Fellow, University of Queensland
+- *2019.10 - 2023.07*, PhD, University of Queensland
+- *2015.09 - 2018.06*, Master, Shandong University
+- *2011.09 - 2015.06*, Bachelor, Shandong University
+- 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Paper Award, ACM Multimedia Asia, 2023
+- President’s Scholarship, Shandong University, 2017
+- National Scholarship, Shandong University, 2017
+- Academic Scholarship, Shandong University, 2016
+![Uploading image.png…]()
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
