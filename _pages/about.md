@@ -53,6 +53,7 @@ I have contributed as a core member to several major research projects, includin
 - *2011.09 - 2015.06*, Bachelor, Shandong University
 - 
 # 🎖 Honors and Awards
+- TrustFM Rising Star Award，WWW， 2026
 - Outstanding Paper Award, ACM Multimedia Asia, 2023
 - President’s Scholarship, Shandong University, 2017
 - National Scholarship, Shandong University, 2017
