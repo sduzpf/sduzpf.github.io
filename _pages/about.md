@@ -24,6 +24,8 @@ I have contributed as a core member to several major research projects, includin
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by TKDE.
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by ACMMM.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026.
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
