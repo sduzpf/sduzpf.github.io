@@ -24,15 +24,15 @@ I have contributed as a core member to several major research projects, includin
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 One paper is accepted by TKDE.
-- *2026.08*: &nbsp;🎉🎉 One paper is accepted by ACMMM.
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TKDE.
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2026.
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by TKDE. 
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by TIP.
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IEEE TKDE. 
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TIP.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by SIGIR 2024.
-- *2024.05*: &nbsp;🎉🎉 Two papers are accepted by TMM.
+- *2024.05*: &nbsp;🎉🎉 Two papers are accepted by IEEE TMM.
   
 # 📝 Publications 
 - Peng-Fei Zhang, Zi Huang, Guangdong Bai. Universal Adversarial Perturbations for Vision-Language Pre-trained Models. In Proceedings of the International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024, pp. 862-87.
