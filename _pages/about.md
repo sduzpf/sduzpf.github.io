@@ -24,6 +24,7 @@ I have contributed as a core member to several major research projects, includin
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 2nd Place in WorldArena 2.0 Track 1!
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TKDE.
 - *2026.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TMM.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026.
